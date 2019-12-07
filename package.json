@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Markpascua1012/StrategentGroup/issues"
   },
-  "homepage": "https://github.com/Markpascua1012/StrategentGroup#readme"
+  "homepage": "https://github.com/Markpascua1012/StrategentGroup#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
