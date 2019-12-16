@@ -36,10 +36,30 @@
     }
 .landing-welcome{
     padding-top: 10%;
+    margin-bottom: 3cm;
+    background-image: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiitIjgm7vmAhVCJDQIHYWuCo8QjRx6BAgBEAQ&url=https%3A%2F%2Fdissolve.com%2Fstock-photo%2FPink-Flower-Dropping-Into-Water-Black-Background-Toronto-royalty-free-image%2F101-D869-89-965&psig=AOvVaw1B7CuFj0miQ-5cqFIVXsj1&ust=1576621719806351");
+    background-color: #cccccc;
+}
+#sumtin{
+    text-align: center;
+    list-style: none;
 }
 .landing-name{
     text-align: center;
-    margin-bottom: 3cm;
+    font-size: 57px;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    font-family: 'Playfair Display', Georgia, serif;
+    font-weight: 400;
+    color: rgb(247, 247, 247);
+}
+.landing-span{
+    font-size: 25px;
+    font-family: 'Open Sans', arial, sans-serif;
+    box-sizing: inherit;
+    font-weight: 400;
+    color: rgb(247, 247, 247);
+    line-height: 1.5;
 }
 .strategy{
     background-color:rgb(246, 246, 246);
